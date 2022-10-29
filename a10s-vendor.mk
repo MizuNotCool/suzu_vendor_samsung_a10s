@@ -47,8 +47,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a10s/proprietary/lib/libvcodec_capenc.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libvcodec_capenc.so \
     vendor/samsung/a10s/proprietary/lib/libvt_avsync.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libvt_avsync.so \
     vendor/samsung/a10s/proprietary/lib/vendor.mediatek.hardware.videotelephony@1.0.so:$(TARGET_COPY_OUT_SYSTEM)/lib/vendor.mediatek.hardware.videotelephony@1.0.so \
-    vendor/samsung/a10s/proprietary/product/vendor_overlay/28/lib/libpdx_default_transport.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/28/lib/libpdx_default_transport.so \
-    vendor/samsung/a10s/proprietary/product/vendor_overlay/28/lib/libmtk-ril.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/28/lib/libmtk-ril.so
+    vendor/samsung/a10s/proprietary/product/vendor_overlay/29/lib/libpdx_default_transport.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib/libpdx_default_transport.so \
+    vendor/samsung/a10s/proprietary/product/vendor_overlay/29/lib/libmtk-ril.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib/libmtk-ril.so
 
 PRODUCT_PACKAGES += \
     ImsService \
